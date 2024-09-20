@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- **Data Sources**: [Link to data sources]
+- **Data Sources**: 
 - **Libraries and Tools**: Python, Pandas, Scikit-learn, TensorFlow, Jupyter Notebook
 
 ## Contact
